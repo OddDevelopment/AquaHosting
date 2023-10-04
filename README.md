@@ -5,7 +5,7 @@ A site template for any hosting company! Easy to change to any color scheme beca
 Demo site: https://odddevelopment.github.io/AquaHosting/
 
 ## Todo
-- [ ] Add animations
+- [x] Add animations
+- [x] Make header look better
 - [ ] Make site better for mobile
-- [ ] Make header look better
 - [ ] Get motivation (10 stars)
